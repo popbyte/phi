@@ -174,4 +174,4 @@ cython_debug/
 .pypirc
 
 # Tokens
-token.json
+token.txt
