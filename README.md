@@ -9,24 +9,19 @@
 
 ### Installation
 
-1. Get a bot token
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone --depth 1 https://github.com/popbyte/phi.git
    ```
-3. Install dependencies
+2. Install dependencies
    ```
    uv pip install --system -r requirements.txt
    ```
+3. Fill out settings.json.example and rename it to settings.json
 4. Run the bot
    ```sh
    python main.py
    ```
-
-<!-- TODO -->
-## TODO
-
-See `TODO.txt`.
 
 <!-- CONTRIBUTING -->
 ## Contributing
