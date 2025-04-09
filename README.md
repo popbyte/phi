@@ -14,9 +14,13 @@
    ```sh
    git clone --depth 1 https://github.com/popbyte/phi.git
    ```
-3. Run the bot
+3. Install dependencies
+   ```
+   uv pip install --system -r requirements.txt
+   ```
+4. Run the bot
    ```sh
-   uv run --script main.py
+   python main.py
    ```
 
 <!-- TODO -->

@@ -1,0 +1,5 @@
+{
+    "bot_token": "tokenhere",
+    "gemini_ai_token": "tokenhere",
+    "loading_emoji": "<a:namehere:idhere>"
+}
