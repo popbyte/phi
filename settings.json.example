@@ -1,5 +1,8 @@
 {
-    "bot_token": "tokenhere",
-    "gemini_ai_token": "tokenhere",
-    "loading_emoji": "<a:namehere:idhere>"
+    "bot_token": "tokenhere, required",
+    "gemini_ai_token": "tokenhere, required",
+    "loading_emoji": "<a:namehere:idhere>, optional",
+    "temperature": "0.5, integer, optional",
+    "topP": "1, integer, optional",
+    "topK": "0, integer, optional"
 }
